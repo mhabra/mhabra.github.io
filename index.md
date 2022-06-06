@@ -23,3 +23,4 @@ Email me at <mhabra@umich.edu> :)
 * Star Trek
 * Pencil Spinning, although i'm very bad at it
 * Studying Medieval Islamic History
+* Taking pics with my dad's old Yashica Electro 35
