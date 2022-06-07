@@ -20,6 +20,8 @@ Email me at <mhabra@umich.edu> :)
 * Resume ([HTML](https://www.moustafa.io/resume.html) \| PDF)
 * [Github](www.github.com/mhabra)
 * [LinkedIn](www.linkedin.com/in/moustafa-habra)
+
+
 ## Other Interests
 * Mountain Biking
 * Classical Arabic Music
