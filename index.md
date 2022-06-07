@@ -17,7 +17,7 @@ I'm a senior at UMich studying biophysics and CS on a pre-med track. I'm really 
 Email me at <mhabra@umich.edu> :)
 
 ## Links
-* Resume ([HTML](https://www.moustafa.io/resume.html) \| PDF)
+* Resume ([HTML](https://www.moustafa.io/resume.html) \| [PDF](https://www.moustafa.io/resume.pdf))
 * [Github](https://www.github.com/mhabra)
 * [LinkedIn](https://www.linkedin.com/in/moustafa-habra)
 
