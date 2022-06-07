@@ -18,8 +18,8 @@ Email me at <mhabra@umich.edu> :)
 
 ## Links
 * Resume ([HTML](https://www.moustafa.io/resume.html) \| PDF)
-* [Github](www.github.com/mhabra)
-* [LinkedIn](www.linkedin.com/in/moustafa-habra)
+* [Github](https://www.github.com/mhabra)
+* [LinkedIn](https://www.linkedin.com/in/moustafa-habra)
 
 
 ## Other Interests
