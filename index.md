@@ -15,6 +15,11 @@ Hello World!
 I'm a senior at UMich studying biophysics and CS on a pre-med track. I'm really interested in how computer science can play a role in medicine, both from a diagnostic standpoint (ML & AI in radiology and that sort of stuff), as well as modelling health data, in order to uncover larger social and economic trends. I also think CS is important from a biophysics standpoint, (like alphafold, although it might be a bit overhyped), and want to explore more applications it may have.
 
 Email me at <mhabra@umich.edu> :)
+
+## Links
+* Resume ([HTML](https://www.moustafa.io/reume.html) | PDF)
+* [Github](www.github.com/mhabra)
+* [LinkedIn](www.linkedin.com/in/moustafa-habra)
 ## Other Interests
 * Mountain Biking
 * Classical Arabic Music
