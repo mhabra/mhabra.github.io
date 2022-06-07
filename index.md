@@ -5,7 +5,7 @@
 <link rel="manifest" href="/favicon_io/site.webmanifest">
 
 </head>
-
+<!-- If you're seeing this, that means we'd be good friends :) Shoot me an email and let me know. Since 2022.06.06, 0 people have seen this. -->
 Hello World!
 
 <sub>&Noah</sub>
