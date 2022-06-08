@@ -32,4 +32,4 @@ Email me at <mhabra@umich.edu> :)
 * Studying Medieval Islamic History
 * Taking pics with my dad's old Yashica Electro 35
 * [Books](https://www.moustafa.io/books)
-* Other Cool Stuff
+* [Other Cool Stuff](https://www.moustafa.io/cool)
