@@ -6,9 +6,8 @@
 
 </head>
 <!-- If you're seeing this, that means we'd be good friends :) Shoot me an email and let me know. Since 2022.06.06, 0 people have seen this. -->
-Hello World!
+Hello there, this is my website. Please check it out.
 
-<sub>&Noah</sub>
 
 ## About Me
 
