@@ -30,5 +30,6 @@ Email me at <mhabra@umich.edu> :)
 * Pencil Spinning, although i'm very bad at it
 * Studying Medieval Islamic History
 * Taking pics with my dad's old Yashica Electro 35
+* [Urbanism & City Planning](https://www.moustafa.io/urbanism)
 * [Books](https://www.moustafa.io/books)
 * [Other Cool Stuff](https://www.moustafa.io/cool)
