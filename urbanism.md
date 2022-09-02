@@ -5,4 +5,4 @@ My family was fortunate enough that I was able to travel overseas and explore ma
 
 The more I learned about cities in the US, the more I grew to detest their layout and their design (which oftentimes is fairly recent and the result of racist policies, like red-lining and exclusionary zoning). In this section of my website, I hope to explore the idea of redesigning American cities and towns, and share core principles of what I believe all good cities should have.
 
-### The Core Cities That All Cities Should Follow
+### The Core Principles That All Cities Should Follow
