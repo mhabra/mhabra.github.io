@@ -27,6 +27,7 @@ Email me at <mhabra@umich.edu> :)
 * Using my terminal for everything if I can (ohmyzsh supremacy)
 * Super Mario Galaxy (1 > 2, but both are fun)
 * Star Trek
+* Becoming an astronaut (I really really want to do research in space)
 * Pencil Spinning, although i'm very bad at it
 * Studying Medieval Islamic History
 * Taking pics with my dad's old Yashica Electro 35
