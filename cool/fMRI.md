@@ -1,14 +1,3 @@
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KLMRWFRZWB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-KLMRWFRZWB');
-</script>
-</head>
 ## fMRI: A Reproducibility Disaster?
 fMRI is a technique that uses MRI to detect brain activity associated with blood flow. It is often used in psychological and neuroscientific studies to detect changes in areas of the brain, in an effort to determine what parts of the brain are responsible for distinct actions. It was developed in 1991 and had a great surge in popularity due to its ease of use and promised results. fMRI had a high degree of spatial resolution and was very easy for clinicians to use because it only needed a 1.5T magnetic field. However in recent years, studies have shown that fMRI may be overused in the neuroscientific community due to its many problems, chief among them, its reproducibility issues. While fMRI definitely has its uses, the problems it faces with replicability and bad software packages warrant caution when using it in a research capacity.  
 

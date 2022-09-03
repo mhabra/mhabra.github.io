@@ -1,15 +1,3 @@
-<head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KLMRWFRZWB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-KLMRWFRZWB');
-</script>
-</head>
-
 ## Things I've written and thought about
 
 <h3><a href="https://www.moustafa.io/cool/fMRI">fMRI: A Reproducibility Disaster?</a></h3>
