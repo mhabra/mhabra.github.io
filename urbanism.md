@@ -1,3 +1,15 @@
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KLMRWFRZWB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KLMRWFRZWB');
+</script>
+</head>
+
 My interest in urbanism and city planning is something that I've always had, but not always had the vocabulary to articulate. When I was a kid, I would play Minecraft a lot, and would design palaces to my heart's content. When I was in seventh grade, I designed my first city for art class. I called it *Io*, and built skyscrapers made of gold and silver (I was very happy to have found gold and silver colored pencils). I was very proud of my city, although it lacked a lot of services that all real cities should have, water treatment facilities for instance. But still the idea of creating a utopia, where all people could live their best lives proved very alluring to me.  
 
 

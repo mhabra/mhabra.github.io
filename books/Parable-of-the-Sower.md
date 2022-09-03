@@ -1,3 +1,15 @@
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KLMRWFRZWB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KLMRWFRZWB');
+</script>
+</head>
+
 ### Parable of the Sower (Octavia Butler, 1993)
 
 Parable of the Sower is perhaps one of the most frightening books I've ever read. Not because it's intrinsically terrifying or meant to be scary, but how insanely accurate it is for being published almost 30 years ago. The raw emotion and forewarning of this novel had me scared for America's future.  

@@ -1,3 +1,15 @@
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KLMRWFRZWB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KLMRWFRZWB');
+</script>
+</head>
+
 ## Some books I've read and my thoughts about them
 
 I like to read a lot, even though I don't have time to do it as often as I'd like, so here I've compiled some a list of some books I like (or perhaps don't like), and my thoughts about them.

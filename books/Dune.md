@@ -1,3 +1,15 @@
+<head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-KLMRWFRZWB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-KLMRWFRZWB');
+</script>
+</head>
+
 ### Dune (Frank Herbert, 1965)
 Let's start with Dune, because I've been re-listening to it lately, and I think about it a lot. I was introduced to Dune when I saw the trailer for it, but I was vaguely aware of its existence because my dad had read them a lot, and I remember him reading them. When I saw the trailer, I made a vow that I would finish reading the book before the movie came out.  
 
